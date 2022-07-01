@@ -5,6 +5,6 @@ import numpy as np
 from PIL import Image
 #import plotly.express as px
 #from plotly.subplots import make_subplots
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 from fbprophet import Prophet
 from fbprophet.plot import plot_plotly
