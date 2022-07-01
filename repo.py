@@ -7,4 +7,4 @@ from PIL import Image
 #from plotly.subplots import make_subplots
 #import plotly.graph_objects as go
 #from fbprophet import Prophet
-from fbprophet.plot import plot_plotly
+#from fbprophet.plot import plot_plotly
